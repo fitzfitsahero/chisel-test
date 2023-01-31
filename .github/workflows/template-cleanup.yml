@@ -2,7 +2,7 @@
 # Adapted from workflow of the same name in https://github.com/JetBrains/intellij-platform-plugin-template
 # SPDX-License-Identifier: Apache-2.0
 
-ACTIONS_STEP_DEBUG: true
+#ACTIONS_STEP_DEBUG: true
 
 name: Template Cleanup
 on:
